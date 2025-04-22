@@ -1,0 +1,76 @@
+{
+    "Search": [
+    {
+    "Title": "A Minecraft Movie",
+    "Year": "2025",
+    "imdbID": "tt3566834",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Minecraft",
+    "Year": "2009",
+    "imdbID": "tt2011970",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTc4ZTQ2YTctZjllYS00ZjUwLWI3NDktYzU5NmU5MTY3ODZjXkEyXkFqcGdeQXVyNjgzMzA5Mzk@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Minecraft Epic",
+    "Year": "2019–2020",
+    "imdbID": "tt10680606",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGFkNTZiZmUtYzI0Ni00NWVjLWE2Y2MtYTU1Y2M2MjQ0ZWYyXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Minecraft: The Story of Mojang",
+    "Year": "2012",
+    "imdbID": "tt2087878",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA4MDA0MjU3MjFeQTJeQWpwZ15BbWU3MDA0MjkwMDc@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Minecraft: Story Mode - A Telltale Games Series",
+    "Year": "2015",
+    "imdbID": "tt4291714",
+    "Type": "game",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWI4NTljNGItZGQyMC00YTIzLTliYmUtYTJiZTg1MDU2ZjBlXkEyXkFqcGdeQXVyMzUyOTM2NzY@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Minecraft: Story Mode",
+    "Year": "2016–2025",
+    "imdbID": "tt10498322",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTExYTZjMzMtY2NkZi00MmRlLWExMjEtZWZiYzlhYTM1ZjQ1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Minecraft Manhunt",
+    "Year": "2019–2021",
+    "imdbID": "tt13038854",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2ZWI0MDItZTBhZC00MDI4LWJlOWUtNzVlYjFjYTRkZWI1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Animation vs. Minecraft Shorts",
+    "Year": "2017–",
+    "imdbID": "tt13339668",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWMwNmZlYzUtODJjOS00NGQwLThiMjctYmFmYjE2NGM5YjY1XkEyXkFqcGdeQXVyNzgxNDk0NTI@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Minecraft Xbox360 Edition",
+    "Year": "2012",
+    "imdbID": "tt2150304",
+    "Type": "game",
+    "Poster": "N/A"
+    },
+    {
+    "Title": "Minecraft Villagers",
+    "Year": "2013–",
+    "imdbID": "tt6058886",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjEyNjIyNTc2OV5BMl5BanBnXkFtZTgwNjA0MDgxMDI@._V1_SX300.jpg"
+    }
+    ],
+    "totalResults": "334",
+    "Response": "True"
+    }
