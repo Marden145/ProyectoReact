@@ -1,5 +1,6 @@
 import { z } from "zod"
 import { useState } from 'react'
+import debounce from "just-debounce-it"
 export function useQuery({ getMovies }){
     const validacionNombrePeli=z.string().min(3, { message: "Debe tener al menos 3 caracteres" }).refine(val => !/^\d+$/.test(val), { message: "No puedes tener solo numeros" })
     const[error,setError]=useState()
@@ -23,10 +24,10 @@ export function useQuery({ getMovies }){
       if(!results.success){
         const mensaje = results.error.errors[0].message
         setError(mensaje)
-        getMovies({ data })
+        getMovies({ query:data })
       }else{
         setError(null)
-        getMovies({ data })
+        getMovies({ query:data })
       }
   
     }
